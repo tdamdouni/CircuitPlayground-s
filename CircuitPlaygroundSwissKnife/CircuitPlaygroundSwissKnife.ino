@@ -32,7 +32,7 @@ void setup() {
 void loop() {
   while (!CircuitPlayground.slideSwitch()) {
     CircuitPlayground.clearPixels();
-    //Watchdog.sleep(1000);
+    Watchdog.sleep(1000);
   }
   
   bool leftFirst = CircuitPlayground.leftButton();
