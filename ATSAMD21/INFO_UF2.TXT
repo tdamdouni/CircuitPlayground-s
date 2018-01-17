@@ -1,0 +1,3 @@
+UF2 Bootloader v1.22.0 SFHR
+Model: CPlay Express
+Board-ID: SAMD21G18A-CPlay-v0
